@@ -235,6 +235,7 @@
 .main-section-shopping_phone .main-hover {
   border-radius: 18px;
   border: 1px solid rgba(237, 237, 237, 1);
+  transition: transform 0.2s ease;
 }
 
 .main-section-shopping_phone .main-list-box {
@@ -364,6 +365,7 @@
   align-items: center;
   justify-content: center;
   background: rgba(245, 245, 245, 1);
+  transition: transform 0.3s ease;
 }
 
 .main-section-shopping .main-list--image {
@@ -436,6 +438,7 @@
   position: relative;
   border-radius: 16px;
   background: rgba(49, 49, 49, 1);
+  transition: transform 0.2s ease;
 }
 
 .main-section-phone .main--box_yellow {
@@ -445,6 +448,8 @@
   border-radius: 16px;
   position: relative;
   background: rgba(255, 243, 204, 1);
+  transition: transform 0.2s ease;
+
 }
 
 .main-section-phone .main--box_red {
@@ -454,6 +459,8 @@
   border-radius: 16px;
   position: relative;
   background: rgba(255, 236, 223, 1);
+  transition: transform 0.2s ease;
+
 }
 
 .main-section-phone .main--box--image {
@@ -608,6 +615,7 @@
   align-items: center;
   justify-content: center;
   background: rgba(245, 245, 245, 1);
+  transition: transform 0.3s ease;
 }
 
 .main-section-food_products .main--list--image {
